@@ -1,0 +1,3 @@
+[{"question_text":"Whats are dolphins","alternatives":["Fish","Mammals","Amphibians","Birds"], "correct_answer":"3"},
+ {"question_text":"What is my name","alternatives":["Samar","Samata"], "correct_answer":"1"},
+ {"question_text":"Whats are what","alternatives":["I dont know","I Know"], "correct_answer":"2"}]
